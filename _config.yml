@@ -1,0 +1,15 @@
+title: passb
+email: mail@lenzw.de
+description: >
+  passb is a Browser addon for password store
+baseurl: ""
+url: "https://passb.github.io"
+twitter_username: phry
+github_username:  phryneas
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-material
+exclude:
+  - Gemfile
+  - Gemfile.lock
