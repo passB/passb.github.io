@@ -8,7 +8,7 @@ It is highly customizable to allow you to use it in the same style you use pass 
 
 ### Installation
 
-You can find passb in the Firefox addon repository (coming soon, for now you have to build it yourself) and soon in the Chrome addon store.
+You can find passb in the [Firefox addon repository](https://addons.mozilla.org/de/firefox/addon/passb/) and soon in the Chrome addon store.
 
 When you have installed the addon, you also have to install the host application.
 
@@ -60,6 +60,8 @@ this extension allows you to display a QR-Code of the current password for use w
 passB can easily be extended with new extensions or alternative strategies.
 
 Take a look at the [QR-Code extension](https://github.com/passB/passB/tree/master/src/Extensions/QRCodeExtension) or the [FirstLine FileFormat](https://github.com/passB/passB/tree/master/src/PluggableStrategies/FileFormats/FirstLineFileFormat) as examples.
+
+When creating an extension/strategy after one of these examples, please don't forget to register them with the [Dependency Injection Container](https://github.com/passB/passB/blob/master/src/Container.ts).
 
 ## Building & running it yourself
 
