@@ -8,7 +8,7 @@ It is highly customizable to allow you to use it in the same style you use pass 
 
 ### Installation
 
-You can find passb in the [Firefox addon repository](https://addons.mozilla.org/de/firefox/addon/passb/) and soon in the Chrome addon store.
+You can find passb in the [Firefox addon repository](https://addons.mozilla.org/firefox/addon/passb/) and soon in the Chrome addon store.
 
 When you have installed the addon, you also have to install the host application.
 
