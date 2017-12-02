@@ -10,7 +10,7 @@ It is highly customizable to allow you to use it in the same style you use pass 
 
 You can find passb in the [Firefox addon repository](https://addons.mozilla.org/firefox/addon/passb/) and soon in the Chrome addon store.
 
-When you have installed the addon, you also have to install the host application.
+When you have installed the addon, you also have to install the host application and restart your browser.
 
 This is documented here: [host application](./host_application.html)
 
