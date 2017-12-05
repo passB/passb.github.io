@@ -12,7 +12,7 @@ You can find passb in the [Firefox addon repository](https://addons.mozilla.org/
 
 When you have installed the addon, you also have to install the host application and restart your browser.
 
-This is documented here: [host application](./host_application.html)
+This is documented here: [host application](./host_application.md)
 
 ### Customizing passb
 
